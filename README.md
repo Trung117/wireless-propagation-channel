@@ -3,7 +3,7 @@
 A **MATLAB/Octave project** that systematically implements and validates the full wireless propagation channel theory from the slide deck *"The Wireless Propagation Channel"* (Marco Moretti, University of Pisa, ELECTRONICS AND COMMUNICATIONS SYSTEMS — COMPUTER ENGINEERING).
 
 This project is suitable as a **portfolio item** demonstrating:
-- Deep understanding of wireless communications theory (not just slide-reading)
+- Deep understanding of wireless communications theory
 - Ability to translate mathematical models into working code
 - Rigorous validation against theoretical predictions
 - Clean architecture and scientific rigor
