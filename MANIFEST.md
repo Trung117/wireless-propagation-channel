@@ -107,19 +107,6 @@
 
 ---
 
-## Generated Results (6 PNG plots, ~360 KB)
-
-| Plot | Size | Content | Validation |
-|------|------|---------|---|
-| `large_scale_fading_decomposition.png` | 84 KB | Path-loss + shadowing + small-scale curves | Slope = 35 dB/decade ✓ |
-| `two_ray_channel_model.png` | 99 KB | 4 impulse responses + 4 frequency responses | Delay spreads match slide ✓ |
-| `rayleigh_ber_awgn_comparison.png` | 39 KB | BER curves (Monte Carlo & theory) | <0.1% error ✓ |
-| `isi_error_floor.png` | 30 KB | Flat vs frequency-selective BER | Floor at 27.5% ✓ |
-| `doppler_spectrum_and_coherence_time.png` | 65 KB | Jakes PSD + fading + autocorr vs J₀ | RMSE=0.017 ✓ |
-| `channel_classification_map.png` | 28 KB | (speed × bandwidth) classification matrix | Scenario marked ✓ |
-
----
-
 ## Documentation
 
 - `README.md` (3.5 KB)
@@ -163,7 +150,7 @@
 
 ---
 
-## Usage as Portfolio Item
+## Portfolio Item
 
 1. **Show**: "Built comprehensive wireless propagation channel simulator (1150 LOC MATLAB/Octave) with validated Monte Carlo simulations matching theoretical BER formulas to <0.1% error"
 
