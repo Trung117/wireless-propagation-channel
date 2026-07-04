@@ -112,12 +112,10 @@ ls -la ../results/
 
 1. Clone the repo
 2. Run all demo scripts (`run_*.m`)
-3. Include the six PNG plots in your presentation
+3. Include the six PNG plots 
 4. Mention: *"Built a complete wireless propagation channel simulator with validated Monte Carlo simulations matching theoretical BER formulas to <0.1% error"*
 5. Point to numerical validation table (above)
 
 ---
-
-**Author**: Educational project built to systematically review wireless propagation channel theory from Marco Moretti's slide deck (University of Pisa).
 
 **Last updated**: 2026-07-04
